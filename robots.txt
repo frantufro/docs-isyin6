@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-hmpjn6.date-me.pro/sitemap.xml
